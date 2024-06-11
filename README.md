@@ -8,7 +8,7 @@ This is what the node looks like.
 
 ## Installation
 
-To install, simply clone the git repository.
+To install, simply clone the git repository in the `custom_nodes` folder.
 
 ```
 git clone https://github.com/shobhitic/ComfyUI-PlusMinusTextClip.git
