@@ -6,6 +6,16 @@ This is what the node looks like.
 
 ![Screenshot](https://i.imgur.com/cmpI7cF.png)
 
+## Installation
+
+To install, simply clone the git repository.
+
+```
+git clone https://github.com/shobhitic/ComfyUI-PlusMinusTextClip.git
+```
+
+After the cloning is complete, just restart the ComfyUI app, and you should have the option to add this node.
+
 To add the node, double click in empty space and search for `PlusMinusTextClip`.
 
 ![Screenshot](https://i.imgur.com/OtWKAJv.png)
