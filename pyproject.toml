@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-plusminustextclip"
+description = "This adds a node that has both the positive and negative prompts as input in one node. You can just add one node and be done with both Positive and Negative prompts, in place of adding two different nodes for them."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/shobhitic/ComfyUI-PlusMinusTextClip"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-PlusMinusTextClip"
+Icon = ""
